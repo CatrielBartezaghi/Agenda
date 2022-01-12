@@ -1,0 +1,1 @@
+Sistema de gestión de stock y ventas. Cuenta con interfaz visual diseñada con wxFormBuilder y está codificado puramente en C++. Fue el trabajo final presentado para la materia Programación Orientada a Objetos.
